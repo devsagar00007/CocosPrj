@@ -1,0 +1,1 @@
+[{"name":"badge","rect":[1695,1426,67,65],"offset":[0,0],"originalSize":[67,65],"rotated":1,"capInsets":[0,0,0,0]}]

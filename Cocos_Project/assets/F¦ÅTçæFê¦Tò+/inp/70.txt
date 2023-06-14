@@ -1,0 +1,1 @@
+[{"name":"payout_window","rect":[0,0,311,165],"offset":[0,0],"originalSize":[311,165],"capInsets":[0,0,0,0]}]

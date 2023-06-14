@@ -1,0 +1,1 @@
+[{"name":"ib_sweep","rect":[1685,1575,338,123],"offset":[0,0],"originalSize":[338,123],"capInsets":[0,0,0,0]},{"name":"infobar_flare","rect":[1489,1860,373,93],"offset":[0,0],"originalSize":[373,93],"capInsets":[0,0,0,0]}]

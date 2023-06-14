@@ -1,0 +1,1 @@
+[{"name":"bload_glow","rect":[1491,517,529,382],"offset":[0,0],"originalSize":[529,382],"capInsets":[0,0,0,0]},{"name":"bload_trans","rect":[1685,901,443,341],"offset":[0,0],"originalSize":[443,341],"rotated":1,"capInsets":[0,0,0,0]}]

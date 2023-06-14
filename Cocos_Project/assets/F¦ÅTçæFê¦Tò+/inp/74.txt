@@ -1,0 +1,1 @@
+[{"name":"ui_mtp_shine","rect":[1517,1,429,514],"offset":[0,0],"originalSize":[429,514],"capInsets":[0,0,0,0]},{"name":"ui_mtp_particle","rect":[1491,472,25,24],"offset":[0,0],"originalSize":[25,24],"rotated":1,"capInsets":[0,0,0,0]},{"name":"ui_mtp_sweep","rect":[1948,1,107,74],"offset":[0,0],"originalSize":[107,74],"rotated":1,"capInsets":[0,0,0,0]}]

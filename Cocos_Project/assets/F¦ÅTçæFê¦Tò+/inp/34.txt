@@ -1,0 +1,1 @@
+[{"name":"bonus_glow","rect":[1373,915,756,204],"offset":[0,0],"originalSize":[756,204],"rotated":1,"capInsets":[0,0,0,0]}]

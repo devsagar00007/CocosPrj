@@ -1,0 +1,1 @@
+[{"name":"bonus_board","rect":[836,1,756,204],"offset":[0,0],"originalSize":[756,204],"rotated":1,"capInsets":[0,0,0,0]}]

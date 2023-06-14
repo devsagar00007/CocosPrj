@@ -1,0 +1,1 @@
+[{"name":"bload_circle","rect":[1301,1861,135,135],"offset":[0,0],"originalSize":[135,135],"capInsets":[0,0,0,0]}]

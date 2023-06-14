@@ -1,0 +1,1 @@
+[{"name":"bg_table","rect":[0,0,756,206],"offset":[0,0],"originalSize":[756,206],"capInsets":[0,0,0,0]}]

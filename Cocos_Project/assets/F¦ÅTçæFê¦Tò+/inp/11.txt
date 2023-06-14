@@ -1,0 +1,1 @@
+[{"name":"bg_fence","rect":[0,0,540,466],"offset":[0,1.5],"originalSize":[540,469],"capInsets":[0,0,0,0]}]
