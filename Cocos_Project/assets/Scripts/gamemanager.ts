@@ -1,5 +1,8 @@
 
-import { _decorator, Component, macro, Node, repeat, v3, Vec2 } from 'cc';
+import { _decorator, animation, Component, macro, Node, repeat, RichText, tween, v3, Vec2 } from 'cc';
+import { freespincontroller } from './freespincontroller';
+import { free } from './free';
+
 const { ccclass, property } = _decorator;
 
 /**
@@ -28,6 +31,14 @@ export class gamemanager extends Component {
     slot4:Node = null;
     @property(Node)
     slot5:Node = null;
+
+  
+
+   
+
+   
+
+
     // [2]
     // @property
     // serializableDummy = 0;
@@ -47,9 +58,26 @@ export class gamemanager extends Component {
      currentRotMul4 = 0;
      currentRotMul5 = 0;
      diffBwElem = 146;
+
+     @property(freespincontroller)
+     fsc:freespincontroller;
+
+     @property(free)
+     fr:free;
+    
+
+
+     freespin:Boolean = false;
     start () {
         // [3]
+
+      
+       
         }
+    public spinforfreespin()
+     {
+      this.onClickSlotButton();
+     }
    onClickSlotButton()
    {
      this.calculateStopDist();
@@ -189,7 +217,8 @@ export class gamemanager extends Component {
             this.slot5.position = v3(this.slot5.position.x,this.posForFirstSlot5,0);
             this.currentRotMul5 = 0;
             this.unschedule(this.rotateSlot5);
-           
+            if(this.freespin)
+              this.fsc.spinendedacknowledgment();
           }
      }
    }
